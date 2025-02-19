@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-<p align="left">Um garoto apaixonado por programação buscando conhecimento e evolução, aqui você vai achar alguns estudos e testes de desenvolvimento, espero que goste do que vai ver e que isso possa ser útil para você, não esqueça, a obsessão vence o talento </p>
+<p align="left">Um garoto apaixonado por programação buscando conhecimento e evolução, aqui você vai achar alguns estudos e testes de desenvolvimento, espero que goste do que vai ver e que isso possa ser útil para você, não esqueça, a obsessão vence o talento!</p>
 </div>
 
 <br>
